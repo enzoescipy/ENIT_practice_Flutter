@@ -1,0 +1,6 @@
+[submodule "ENIT_practice_flutter_1_calculator"]
+	path = ENIT_practice_flutter_1_calculator
+	url = https://github.com/enzoescipy/ENIT_practice_flutter_1_calculator
+[submodule "ENIT_practice_flutter_2_imageSearch"]
+	path = ENIT_practice_flutter_2_imageSearch
+	url = https://github.com/enzoescipy/ENIT_practice_flutter_2_imageSearch

@@ -4,3 +4,6 @@
 [submodule "ENIT_practice_flutter_2_imageSearch"]
 	path = ENIT_practice_flutter_2_imageSearch
 	url = https://github.com/enzoescipy/ENIT_practice_flutter_2_imageSearch
+[submodule "ENIT_practice_flutter_3_musicPlayerJSON"]
+	path = ENIT_practice_flutter_3_musicPlayerJSON
+	url = https://github.com/enzoescipy/ENIT_practice_flutter_3_musicPlayerJSON.git

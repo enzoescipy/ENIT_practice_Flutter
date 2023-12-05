@@ -7,3 +7,9 @@
 [submodule "ENIT_practice_flutter_3_musicPlayerJSON"]
 	path = ENIT_practice_flutter_3_musicPlayerJSON
 	url = https://github.com/enzoescipy/ENIT_practice_flutter_3_musicPlayerJSON.git
+[submodule "ENIT_practice_flutter_4_googleMap"]
+	path = ENIT_practice_flutter_4_googleMap
+	url = https://github.com/enzoescipy/ENIT_practice_flutter_4_googleMap.git
+[submodule "ENIT_practice_flutter_5_googleMap2"]
+	path = ENIT_practice_flutter_5_googleMap2
+	url = https://github.com/enzoescipy/ENIT_practice_flutter_5_googleMap2.git
